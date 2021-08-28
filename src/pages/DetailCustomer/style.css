@@ -1,0 +1,8 @@
+.detail-wrapper{
+    text-align: center;
+    border: 1px solid black;
+    width: 400px;
+    margin: 0 auto;
+    border-radius: 10px;
+    font-weight: bold;
+}

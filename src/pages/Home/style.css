@@ -1,0 +1,21 @@
+.home-wrapper{
+    padding: 30px 60px;
+}
+
+.home-wrapper h1{
+    text-align: center;
+}
+
+.user-wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.customer-badge{
+    text-decoration: none;
+    margin: 16px;
+    border: 1px solid black;
+    padding: 16px;
+    border-radius: 10px;
+    font-weight: bold;
+}

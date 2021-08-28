@@ -1,0 +1,2 @@
+export const SHOW_CUSTOMERS = 'SHOW_CUSTOMERS';
+export const DETAIL_CUSTOMER = 'DETAIL_CUSTOMER';
